@@ -1,2 +1,2 @@
 # 3DShapes-Classes
-University project, focuses much on classes ,objectives, and operations
+University project, focuses much on Classes, Objects, and Operations
